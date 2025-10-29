@@ -13,7 +13,7 @@ I'm **Jonathan Sanfilippo**, an IT Technician & Linux Enthusiast based in **Lond
 ---
 
 ### 🧠 Tech Stack & Tools  
-- **Operating Systems:** Linux (Ubuntu, Zorin, Debian), Windows 10/11  
+- **Operating Systems:** Linux (Archlinux, Debian), Windows 10/11  
 - **Hardware:** PC assembly, component testing, SSD/RAM upgrades  
 - **Networking:** TCP/IP, Wi-Fi setup, router configuration  
 - **Tools:** Docker, Bash, Git, VS Code  
